@@ -2,3 +2,4 @@ feature 1 - step 1
 feature 1 - step 2
 rebase part 1
 rebase part 2
+rebase part 3
